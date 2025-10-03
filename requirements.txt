@@ -1,0 +1,6 @@
+gradio
+python-dotenv
+google-genai
+moviepy
+gTTS
+pydub
