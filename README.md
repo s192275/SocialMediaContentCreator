@@ -20,7 +20,7 @@ Böylece, Instagram veya TikTok keşfet kısmındaki içeriklere benzer otomatik
 ### Örnek Çıktı / Sample Output
 Aşağıda gösterilen çıktı sosyal medya için uzun sayılabilecek bilgi amaçlı bir sayfanın üretebileceği bir içerik olarak düşünülüp o biçimde hazırlanmıştır.
 
-[📹 Örnek İçerik Videosu](https://github.com/s192275/SocialMediaContentCreator/blob/main/output_with_subtitles.mp4)
+[Örnek İçerik Videosu](output_with_subtitles.mp4)
 
 ---
 
